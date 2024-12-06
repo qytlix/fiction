@@ -1,0 +1,9 @@
+{
+  "accentColor": "#0d912e",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "baseFontSize": 17,
+  "theme": "system"
+}

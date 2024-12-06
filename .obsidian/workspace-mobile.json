@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "073b226889392b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "825ffb82e97b99af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6d93e416f0568b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "银杏末叶/正文/第三章 青晨.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第三章 青晨"
+            }
+          },
+          {
+            "id": "c06851ad6bb1a133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物介绍/见末叶.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "见末叶"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "095e0cbaa28e5665",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fc07f0e3f8ba26c3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "413281553aee6da4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "e72ee5098bedcdd6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "e827cea669c92d66",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "898195e2db0d4a40",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a3c41e4db21c3e0e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "银杏末叶/正文/第三章 青晨.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "7f0f620e9ac59862",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "人物介绍/灿.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "a846960f25d059bd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "人物介绍/灿.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c06851ad6bb1a133",
+  "lastOpenFiles": [
+    "银杏末叶/正文/第一章 见末叶先生.md",
+    "银杏末叶/正文/第四章 世界树.md",
+    "银杏末叶/正文/第三章 青晨.md",
+    "银杏末叶/附件/「两年相对数据采集」.md",
+    "人物介绍/见末叶.md",
+    "人物介绍/璃伊.md",
+    "人物介绍/本神.md",
+    "人物介绍/神.md",
+    "银杏末叶/附件/「洪流相对扩增计划」.md",
+    "人物介绍/流飒.md",
+    "人物介绍/你.md",
+    "人物介绍/依璃伊.md",
+    "人物介绍/戋幕.md",
+    "人物介绍/依伊.md",
+    "银杏末叶/正文/第二章 洪流.md",
+    "银杏末叶/正文/序 开始了？结束吧！.md",
+    "银杏末叶/附件/「频道交流」.md",
+    "人物介绍/霜果.md",
+    "人物介绍/麻.md",
+    "人物介绍/外麻.md",
+    "人物介绍/识凝.md",
+    "人物介绍/灿.md",
+    "人物介绍/青芫.md",
+    "银杏末叶/简介.md",
+    "五代青史/简介.md",
+    "五代青史",
+    "人物介绍/青雰.md",
+    "五代青史",
+    "银杏末叶/正文"
+  ]
+}
